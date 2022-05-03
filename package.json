@@ -1,0 +1,11 @@
+{
+  "name": "fizz-buzz-node",
+  "version": "1.0.0",
+  "description": "Just a fizz buzz application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
